@@ -1,5 +1,4 @@
 added second file
 please check the latest commites
-checking the commits in second file that is demo2
-please the fetch command
+checking branch strategies
 
